@@ -10,12 +10,3 @@ a = [total := total + x  for x in nums]
 print("2. Addition without sum : ",total)
 
 
-
-
-# global temp 
-# temp = nums[0]
-
-# find max in nums = [1,2,3,4] using lambda
-
-# fun = lambda x : 
-# print([(lambda i, temp = nums[0]: (temp := i) if (i > temp) else temp)(i) for i in nums])
