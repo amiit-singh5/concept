@@ -5,3 +5,4 @@
 # 2. You have added, comitted but not pushed
 # 3. You have added, commited and pused  
 print("New module have been added, instruction to all the delepoper is to syc from main")
+print(" Module B has been added, everyone need to sync")
